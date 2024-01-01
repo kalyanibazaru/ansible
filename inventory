@@ -1,5 +1,5 @@
-[localhost]
-localhost
+192.56.13.20
+192.56.13.30
 
 [localhost:vars]
 Course="Devops from inventory"
@@ -7,7 +7,7 @@ Trainer="sivakumar"
 Duration="110HRS"
 
 [web]
-54.163.12.252
+18.234.46.48
 
 [catalogue]
 192.32.51.4
